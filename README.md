@@ -1,0 +1,1 @@
+Create a website with recipes using HTML. Utilize heading, paragraph, link, unordered list, ordered list  and img tags. Create the root folder and any subsequent folder structure. Update the remote git repository as changes are made, commiting them with meaningful messages.
